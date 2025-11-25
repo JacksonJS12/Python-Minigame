@@ -11,6 +11,9 @@ Welcome to the Platformer Mini Game! This is a simple 2D platformer mini game bu
 - Customizable backgrounds and characters 🎨
 
 ### How to Play 🎮
+**➡️ To open the game:** 
+- Go to the **folder game** and find **main.exe**, then double-click it to start the game.
+  </br></br>
 - **Move Left**: Press the Left Arrow key ⬅️
 - **Move Right**: Press the Right Arrow key ➡️
 - **Jump**: Press the Spacebar (double jump is allowed) ⬆️
